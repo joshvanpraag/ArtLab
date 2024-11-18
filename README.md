@@ -18,7 +18,7 @@
 <script>
 pannellum.viewer('panorama', {
     "type": "equirectangular",
-    "panorama": "https://pannellum.org/images/alma.jpg"
+    "panorama": "https://github.com/joshvanpraag/artlab/blob/0f9a1dc57df2e8292f8de36c199a6d23b8b6f5d2/artlab_pano.jpg"
 });
 </script>
 
